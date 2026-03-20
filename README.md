@@ -9,7 +9,7 @@ En esta sección aprenderemos a movernos por el simulador sin morir en el intent
 ### 🔌 Nivel 1: Conectividad Básica
 * [ ] **Hola Mundo de las Redes:** Conectar dos PCs con un cable cruzado.
 * [ ] **El Switch:** Crear una red en estrella simple.
-* [ ] **Configuración IP:** ¿Estática o DHCP? Diferencias clave.
+* [x] [**Configuración IP:** ¿Estática o DHCP?](./configuracion-ip.md)
 
 ### 🛣️ Nivel 2: Enrutamiento (Routers)
 * [ ] **Configuración por CLI:** Los comandos básicos que NO puedes olvidar:
